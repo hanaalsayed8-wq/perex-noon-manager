@@ -9,3 +9,4 @@ enabled = true
 NOON_BASE_URL = "https://noon-api-gateway.noon.partners"
 NOON_REPORT_CODE = "EXP4E2HD6HA4"
 TARGET_PARTNER_SKU = "159-BRD340"
+# Trigger Cloudflare deployment
