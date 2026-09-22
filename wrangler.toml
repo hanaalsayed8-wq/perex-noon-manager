@@ -1,5 +1,5 @@
 name = "perex-noon-manager"
-main = "src/index.js"
+main = "src/src/src/src/index.js"
 compatibility_date = "2026-09-22"
 
 [observability]
